@@ -1,0 +1,16 @@
+build/
+install/
+log/
+
+*.bag
+*.db3
+*.mcap
+*.log
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+.DS_Store
