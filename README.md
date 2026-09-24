@@ -216,15 +216,11 @@ Candidates are filtered using geometric constraints.
 
 The required gripper opening is
 
-$$
-w_{\text{required}}
-=
-w_{\text{object}}
-+
-2c
-$$
+```math
+w_{\text{required}} = w_{\text{object}} + 2c
+```
 
-where \(c\) is a safety clearance.
+where $c$ is a safety clearance.
 
 The current configuration uses an 80 mm maximum opening.
 
