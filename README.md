@@ -445,7 +445,7 @@ cd ~/parcel_ws/src
 Clone this repository and place the ROS package in the workspace:
 
 ```bash
-git clone <repository-url> rgbd-parcel-grasping
+git clone https://github.com/mlsn111/rgbd-parcel-grasping.git rgbd-parcel-grasping
 cp -r rgbd-parcel-grasping/ros2_package ./realsense_benchmark
 cd ..
 ```
